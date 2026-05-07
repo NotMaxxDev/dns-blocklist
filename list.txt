@@ -122,4 +122,3 @@
 ||ads.linkedin.com^
 ||open.oneplus.net^
 ||extmaps-api.yandex.net^
-||offerwall.yandex.net^
